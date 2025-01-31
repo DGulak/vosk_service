@@ -2,6 +2,7 @@ import os
 import queue
 import json
 import vosk
+import sys
 import sounddevice as sd
 import asyncio
 import websockets
